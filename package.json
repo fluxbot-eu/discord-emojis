@@ -1,0 +1,30 @@
+{
+  "name": "discord-emojis-picker",
+  "version": "0.2.1",
+  "description": "A lightweight, responsive emoji selector designed for Discord applications.",
+  "main": "index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluxbot-eu/discord-emojis.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-emojis",
+    "emojis"
+  ],
+  "author": "NoahPrm",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/fluxbot-eu/discord-emojis/issues"
+  },
+  "homepage": "https://github.com/fluxbot-eu/discord-emojis#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
